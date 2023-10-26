@@ -1,5 +1,8 @@
 # Frontend System Design of Youtube
 
+
+![Screenshot 2023-10-26 114701](https://github.com/vamshiKodem/Frontend-System-Design/assets/139354055/4ffb5389-b951-47d3-80ea-aa492844fac8)
+
 - Functional Requirements
   - Authentication
   - Profile
@@ -18,18 +21,36 @@
   - Cross-platform (Mobile, Web, Tab)
   - Language
  
-  - Tech Stack
-    - React js (Next js for Server side rendering)
-    - Axios / Apollo Client for graphql
-    - Context Api / Redux (State management)
-    - Bamboo / Jenkins (Automated builds)
-    - Adobe / Google Analytics
-    - Spuluk (Logs)
-    - ES Lint
-    - In house Common components
+- Tech Stack
+  - React js (Next js for Server side rendering)
+  - Axios / Apollo Client for graphql
+  - Context Api / Redux (State management)
+  - Bamboo / Jenkins (Automated builds)
+  - Adobe / Google Analytics
+  - Spuluk (Logs)
+  - ES Lint
+  - In house Common components
 
-   # Video Details Section
+# Video Details Section
 
   
 ![Screenshot 2023-10-26 111139](https://github.com/vamshiKodem/Frontend-System-Design/assets/139354055/f7227622-8b0f-46b0-aaca-998eff4244e8)
+
+Its contains
+
+- Video Player
+  - Play / Resume
+  - Forward / Backward
+  - Expand / Minimize
+  - Quality
+  - Speed
+- Video details
+  - Title
+  - Description
+- Suggested Videos
+- Comment Section 
+
+
+
+
 
