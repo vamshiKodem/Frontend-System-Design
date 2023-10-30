@@ -1,4 +1,4 @@
-# Frontend System Design
+<img width="882" alt="image" src="https://github.com/vamshiKodem/Frontend-System-Design/assets/139354055/1dd40a4c-092e-4b3f-9770-37fef9db1097"># Frontend System Design
 In this repository, you'll find resources, diagrams, and documentation related to the front-end system design. Explore our user interface architecture, design patterns, and user experience strategies to understand how we create a seamless and user-friendly digital environment.
 
 # Important links for frontend system design
@@ -28,6 +28,7 @@ In this repository, you'll find resources, diagrams, and documentation related t
 
 
 # Frontend System Design of Youtube
+Tech Stack Overview
 
 ![Screenshot 2023-10-26 114701](https://github.com/vamshiKodem/Frontend-System-Design/assets/139354055/4ffb5389-b951-47d3-80ea-aa492844fac8)
 
@@ -80,6 +81,27 @@ Its contains
   - Should show the latest comments first
   - It should be editable and can delete the comment
 
+**Youtube Home Screen**
+<img width="882" alt="image" src="https://github.com/vamshiKodem/Frontend-System-Design/assets/139354055/5fad2773-0864-4984-8356-08193a3898df">
 
+It's contains
+- Left Menu section with Logo
+- Search Bar (Text input and voice search)
+- Suggestion category
+- Video Suggestion
+  - Video Thumbnail
+  - Video preview
+- Shorts suggestion
+- Home, Shorts, Subscribed
+- Explore Section
+  - Trending
+  - Shopping
+  - Games
+  - News
+  - Sports
+  - Learning
+- Settings
+- Youtube Child
+- Youtube premium
 
 
