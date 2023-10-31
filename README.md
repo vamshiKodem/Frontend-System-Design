@@ -1,4 +1,4 @@
-<img width="882" alt="image" src="https://github.com/vamshiKodem/Frontend-System-Design/assets/139354055/1dd40a4c-092e-4b3f-9770-37fef9db1097"># Frontend System Design
+# Frontend System Design
 In this repository, you'll find resources, diagrams, and documentation related to the front-end system design. Explore our user interface architecture, design patterns, and user experience strategies to understand how we create a seamless and user-friendly digital environment.
 
 # Important links for frontend system design
@@ -31,34 +31,6 @@ In this repository, you'll find resources, diagrams, and documentation related t
 Tech Stack Overview
 
 ![Screenshot 2023-10-26 114701](https://github.com/vamshiKodem/Frontend-System-Design/assets/139354055/4ffb5389-b951-47d3-80ea-aa492844fac8)
-
-- Functional Requirements
-  - Authentication
-  - Profile
-  - Dashboard video listing
-  - Video details
-  - Search
-  - Youtube premium
-  - Youtube Music
-  - Shorts
-
-- Non-Function Requirements
-  - Accessibility
-  - Performance
-  - Caching
-  - Security
-  - Cross-platform (Mobile, Web, Tab)
-  - Language
- 
-- Tech Stack
-  - React js (Next js for Server side rendering)
-  - Axios / Apollo Client for graphql
-  - Context Api / Redux (State management)
-  - Bamboo / Jenkins (Automated builds)
-  - Adobe / Google Analytics
-  - Spuluk (Logs)
-  - ES Lint
-  - In house Common components
 
 **Video Details Section**
 
