@@ -104,4 +104,37 @@ It's contains
 - Youtube Child
 - Youtube premium
 
+# Flipkart Autocomplete
 
+
+![Screenshot 2023-10-31 114236](https://github.com/vamshiKodem/Frontend-System-Design/assets/139354055/55fa0614-5da1-49d8-b74e-fafba670c28a)
+
+
+- Functional Requirements
+  - Text input (Search Bar)
+    - Custom Text input that supports icons and buttons
+  - Suggestion list
+    - Each Suggestion
+      - Custom Suggestion 
+      - Image / Icons
+      - Title
+      - Descriptions
+    - Pagination / Infinity scroll of suggestion
+
+- Non-Function Requirements
+  - Accessibility
+  - Performance (Debouncing) 
+  - Caching
+  - Security
+  - Cross-platform (Mobile, Web, Tab)
+  - Language
+ 
+- Tech Stack
+  - React js (Next js for Server side rendering)
+  - Axios / Apollo Client for graphql
+  - Context Api / Redux (State management)
+  - Bamboo / Jenkins (Automated builds)
+  - Adobe / Google Analytics
+  - Spuluk (Logs)
+  - ES Lint
+  - In house Common components
