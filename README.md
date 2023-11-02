@@ -96,7 +96,12 @@ It's contains
  
   Some important things
   - if we are using services we need to implement the results which are the latest
-  - 
+  - Text input must be customizable
+  - We also need to support spell check so even if we spell wrong we need to give suggestion
+  - Need to implement infinity scroll or pagination so we can show a large number of suggestions
+  - Localize suggestions / local language
+  - store the recent search history and suggestions for performance
+  
 
 
 
