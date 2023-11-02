@@ -25,6 +25,9 @@ In this repository, you'll find resources, diagrams, and documentation related t
 - Design CodeSandbox
 - Design a Tic-Tac-Toe game
 
+# High level overview of how a web or mobile application works
+
+<img width="1278" alt="image" src="https://github.com/vamshiKodem/Frontend-System-Design/assets/139354055/f8458acf-236e-4f6b-9c45-99cfc6d1138f">
 
 
 # Frontend System Design of Youtube
