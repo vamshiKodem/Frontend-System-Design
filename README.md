@@ -82,24 +82,7 @@ It's contains
 ![Screenshot 2023-10-31 114236](https://github.com/vamshiKodem/Frontend-System-Design/assets/139354055/55fa0614-5da1-49d8-b74e-fafba670c28a)
 
 
-- Functional Requirements
-  - Text input (Search Bar)
-    - Custom Text input that supports icons and buttons
-  - Suggestion list
-    - Each Suggestion
-      - Custom Suggestion 
-      - Image / Icons
-      - Title
-      - Descriptions
-    - Pagination / Infinity scroll of suggestion
-
-- Non-Function Requirements
-  - Accessibility
-  - Performance (Debouncing) 
-  - Caching
-  - Security
-  - Cross-platform (Mobile, Web, Tab)
-  - Language
+<img width="978" alt="image" src="https://github.com/vamshiKodem/Frontend-System-Design/assets/139354055/0f1c951c-91e2-4bcd-82fa-7709d7374d84">
  
 - Tech Stack
   - React js (Next js for Server side rendering)
@@ -110,3 +93,12 @@ It's contains
   - Spuluk (Logs)
   - ES Lint
   - In house Common components
+ 
+  Some important things
+  - if we are using services we need to implement the results which are the latest
+  - 
+
+
+
+
+
