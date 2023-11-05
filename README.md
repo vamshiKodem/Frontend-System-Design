@@ -1,5 +1,5 @@
 # Frontend System Design
-In this repository, you'll find resources, diagrams, and documentation related to the front-end system design. Explore our user interface architecture, design patterns, and user experience strategies to understand how we create a seamless and user-friendly digital environment.
+In this repository, you'll find resources, diagrams, and documentation related to the front-end system design. Explore our user interface architecture, design patterns, and user experience strategies to understand how we create a seamless and user-friendly digital environment. 
 
 # Important links for frontend system design
 - <p><a href="https://www.youtube.com/watch?v=5vyKhm2NTfw&list=PLI9W87-Dqn7j_x6QtR6sUjycJR7nQLBqT">Front-End Engineer YT Channel</a></p> 
