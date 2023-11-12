@@ -105,8 +105,19 @@ It's contains
   - Localize suggestions / local language
   - store the recent search history and suggestions for performance
   
-
-
+  API Response interface for suggestions
+```
+{
+  [
+  {
+    id: number,
+    title: string,
+    descriptions: string,
+    icon/photo: string,
+  }
+  ]
+}
+```
 
 
 
