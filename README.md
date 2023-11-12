@@ -107,15 +107,14 @@ It's contains
   
   API Response interface for suggestions
 ```
+interface SuggestionList{
+  id: number,
+  title: string,
+  descriptions: string,
+  icon/photo: string,
+}
 {
-  [
-  {
-    id: number,
-    title: string,
-    descriptions: string,
-    icon/photo: string,
-  }
-  ]
+  SuggestionsList[],
 }
 ```
 
