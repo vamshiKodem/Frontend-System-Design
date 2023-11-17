@@ -57,7 +57,7 @@ Its contains
   - It should be editable and can delete the comment
 - How services work
   - Dynamic video quality based on the internet speed will adapt the quality (downloading the video in pieces manner)
-  - 
+- To load the page faster we need to implement lazy loading and code splitting. 
 
 **Youtube Home Screen**
 <img width="882" alt="image" src="https://github.com/vamshiKodem/Frontend-System-Design/assets/139354055/5fad2773-0864-4984-8356-08193a3898df">
@@ -101,8 +101,8 @@ It's contains
   - In house Common components
  
   Some important things
-  - if we are using services we need to implement the results which are the latest
-  - Text input must be customizable
+  - If we are using services we need to implement them to show the latest results
+  - Text input must be customizable so we can reuse it in multiple places
   - We also need to support spell check so even if we spell wrong we need to give suggestion
   - Need to implement infinity scroll or pagination so we can show a large number of suggestions
   - Localize suggestions / local language
