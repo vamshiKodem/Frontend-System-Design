@@ -55,6 +55,9 @@ Its contains
   - It should have an infinite scroll
   - Should show the latest comments first
   - It should be editable and can delete the comment
+- How services work
+  - Dynamic video quality based on the internet speed will adapt the quality (downloading the video in pieces manner)
+  - 
 
 **Youtube Home Screen**
 <img width="882" alt="image" src="https://github.com/vamshiKodem/Frontend-System-Design/assets/139354055/5fad2773-0864-4984-8356-08193a3898df">
