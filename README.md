@@ -21,7 +21,6 @@ In this repository, you'll find resources, diagrams, and documentation related t
 - Design a Poll Widget
 - Design a Carousel Widget
 - Design Twitter Web App
-- Design a QR code-based login system
 - Design CodeSandbox
 - Design a Tic-Tac-Toe game
 
